@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+}
+
+div#root {
+  min-height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: inherit;
+}
